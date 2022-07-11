@@ -6,7 +6,7 @@ let dataCompoment = {
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 col-md-4 image-wrapper">
-                    <img src="https://cdn.jsdelivr.net/gh/Beecoder01/swPro/assets/images/log1-1-815x611.png" alt="sw pro logo">
+                    <img src="https://raw.githubusercontent.com/Beecoder01/swPro/main/assets/images/log1-1-815x611.png" alt="sw pro logo">
                 </div>
                 <div class="col-12 col-md">
                     <div class="text-wrapper">
@@ -349,7 +349,7 @@ let mDocs = {
                             <br>In linear V, the widgets are placed in vertical order. Now drag a linear V to Screen. Lets add some widgets in Linear v
                             <br>
                             <div class="inlineD mt-3">
-                                <img class="icoImg" src="assets/images/link.png" >
+                                <img class="icoImg" src="https://raw.githubusercontent.com/Beecoder01/swPro/main/assets/images/link.png" >
                                 <b>Properties</b>
                             </div>
                             <div class="row">
@@ -374,7 +374,7 @@ let mDocs = {
                                 <div class="col-4 col-md-3 col-lg-2 fs-6 dColor">id</div>
                             </div>
                             <div class="inlineD mt-3">
-                                <img class="icoImg" src="assets/images/link.png" alt="link">
+                                <img class="icoImg" src="https://raw.githubusercontent.com/Beecoder01/swPro/main/assets/images/link.png" alt="link">
                                 <b>Events</b>
                             </div>
                             <div class="row">
