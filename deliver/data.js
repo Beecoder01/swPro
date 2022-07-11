@@ -6,7 +6,7 @@ let dataCompoment = {
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 col-md-4 image-wrapper">
-                    <img src="https://raw.githubusercontent.com/Beecoder01/swPro/main/assets/images/log1-1-815x611.png" alt="sw pro logo">
+                    <img src="https://raw.githubusercontent.com/Beecoder01/swPro/main/assets/images/log1-1-815x611.png" alt="Update">
                 </div>
                 <div class="col-12 col-md">
                     <div class="text-wrapper">
