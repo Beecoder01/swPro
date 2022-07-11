@@ -6,7 +6,7 @@ let dataCompoment = {
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 col-md-4 image-wrapper">
-                    <img src="assets/images/log1-815x611.png" alt="sw pro logo">
+                    <img src="https://cdn.jsdelivr.net/gh/Beecoder01/swPro/assets/images/log1-1-815x611.png" alt="sw pro logo">
                 </div>
                 <div class="col-12 col-md">
                     <div class="text-wrapper">
@@ -120,7 +120,7 @@ let dataCompoment = {
                         <strong id="assetTitleBar">Tutorials</strong>
                         <div class="d-flex justify-content-center">
                             <input onkeyup="myFunction()" id="myInput" class="align-self-center form-control me-2" type="search" placeholder="Search" aria-label="Search" style="max-width: 300px; max-height: 3rem;" />
-                            <div class="d-none align-self-center p-2" onclick="myFunction()"><img src="./assets/images/search.png" style="height: 1.5rem; max-width: 1.5rem;"></div>
+                            <div class="d-none align-self-center p-2" onclick="myFunction()"><img src="https://cdn.jsdelivr.net/gh/Beecoder01/swPro/assets/images/search.png" style="height: 1.5rem; max-width: 1.5rem;"></div>
                         </div>
                     </h3>
                 </div>
