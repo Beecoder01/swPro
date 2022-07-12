@@ -50,7 +50,7 @@ function popAssets(id) {
         // fetch("./d.txt")
         // fetch("https://sketch-java.firebaseio.com/java_code.json")
         // fetch("https://myfirebase1-36d69-default-rtdb.firebaseio.com/swCodes/c1.json")
-        fetch("./codes.json")
+        fetch("https://beecoder01.github.io/swPro/codes.json")
             .then(response => response.json())
             .then(data => showData(data))
             .catch(err => console.log("err" + err));
