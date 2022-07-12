@@ -1,0 +1,82 @@
+#myInput,
+#searchBar {
+    /* background-image: url('https://cdn-icons-png.flaticon.com/512/54/54481.png'); */
+    background-image: url('./assets/images/search.png');
+    background-size: 20px 20px;
+    /* Add a search icon to input */
+    background-position: 15px 50%;
+    /* Position the search icon */
+    background-repeat: no-repeat;
+    /* Do not repeat the icon image */
+    width: 100%;
+    /* Full-width */
+    font-size: 16px;
+    /* Increase font-size */
+    padding: 12px 20px 12px 40px;
+    /* Add some padding */
+    border: 1px solid #ddd;
+    /* Add a grey border */
+    /* margin-bottom: 12px; */
+    /* Add some space below the input */
+}
+
+#myTable {
+    border-collapse: collapse;
+    /* Collapse borders */
+    width: 100%;
+    /* Full-width */
+    border: 1px solid #ddd;
+    /* Add a grey border */
+    font-size: 18px;
+    /* Increase font-size */
+}
+
+#myTable th,
+#myTable td {
+    text-align: left;
+    /* Left-align text */
+    padding: 12px;
+    /* Add padding */
+}
+
+#myTable tr {
+    /* Add a bottom border to all table rows */
+    border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header,
+#myTable tr:hover {
+    /* Add a grey background color to the table header and on hover */
+    background-color: #f1f1f1;
+}
+
+#cText {
+    display: none;
+}
+
+td {
+    cursor: pointer;
+}
+
+.myF {
+    font-family: Nunito;
+}
+
+.cstmImgParams {
+    width: 340px;
+}
+
+.icoImg {
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin-right: 5px;
+}
+
+.inlineD {
+    display: inline-block;
+}
+
+.fsmall {
+    font-size: 20px;
+}
